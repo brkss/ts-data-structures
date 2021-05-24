@@ -1,0 +1,10 @@
+
++Upper bound of runing time according to the input size in the worst case senario
++Denote input size with n
+
+constant = O(1)
+logarithmic = O(logn)
+linear = O(nlog)
+quadratic = O(n^2)
+exponontial = O(a^n)
+factorial = O(n!)
