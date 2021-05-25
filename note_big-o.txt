@@ -4,7 +4,9 @@
 
 constant = O(1)
 logarithmic = O(logn)
-linear = O(nlog)
+linear = O(nlogn)
 quadratic = O(n^2)
-exponontial = O(a^n)
+	-exp : loop inside loop
+	-O(f(n)) = n^2  
+exponontial = O(a^n)	
 factorial = O(n!)

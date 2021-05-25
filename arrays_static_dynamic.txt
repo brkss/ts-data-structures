@@ -1,0 +1,16 @@
+
+
+
+
+-> Static Arrays 
+Operation : 
+Insert = O(1) => add element at the last index 
+Read/Access = O(1) => Access via index
+Update = O(1) => Upadet via index 
+Delete = O(n) => shift n elements after deleting
+Search = O(n) => Check n element
+
+
+-> Dynamic Arrays
+everytime array is full we double the size 
+Operation time complixity are the same as static array 
