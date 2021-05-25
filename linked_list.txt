@@ -1,0 +1,11 @@
+
+
+
+-> Linked List 
+
+-linear data structure 
+-elements are not stored in contunious memory locations
+-the elements are linked using pointers 
+-cant index elements we must travers the list when we need to access to a specific element 
+
+
