@@ -8,4 +8,12 @@
 -the elements are linked using pointers 
 -cant index elements we must travers the list when we need to access to a specific element 
 
+-> Time Complexity 
+- insertion : 
+	head -> O(1)
+	middle -> O(n) => pushing other elements
+	tail  -> O(1)
+-Access : O(n)
+-Update : O(n)
+-Search : O(n)
 
